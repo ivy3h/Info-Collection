@@ -14,6 +14,7 @@ This repository contains materials, blogs, and other resources that I have studi
 - **Stanford University, CS25: Transformers United V4** [link](https://web.stanford.edu/class/cs25/index.html)
 - **Tsinghua University, Introduction to Large Language Models** [link](https://nlp.csai.tsinghua.edu.cn/summer_class/)
 - **CS Self-Learning** [link](https://csdiy.wiki/en/)
+- **Deep Learning Paper Reading** [link](https://github.com/mli/paper-reading?tab=readme-ov-file)
 
 
 ## Advices for Research
