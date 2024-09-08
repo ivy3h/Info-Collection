@@ -10,17 +10,17 @@ This repository contains materials, blogs, and other resources that I have studi
 
 
 ## Courses & Reading Materials
-- [**The Missing Semester of Your CS Education**](https://missing.csail.mit.edu/)
+- [**The Missing Semester of Your CS Education**](https://missing.csail.mit.edu/)  
   _Massachusetts Institute of Technology_
-- [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
+- [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)  
   _Stanford University_
-- [**CS25: Transformers United V4**](https://web.stanford.edu/class/cs25/index.html)
+- [**CS25: Transformers United V4**](https://web.stanford.edu/class/cs25/index.html)  
   _Stanford University_
-- [**Introduction to Large Language Models**](https://nlp.csai.tsinghua.edu.cn/summer_class/)
+- [**Introduction to Large Language Models**](https://nlp.csai.tsinghua.edu.cn/summer_class/)  
   _Tsinghua University_
-- [**CS Self-Learning**](https://csdiy.wiki/en/)
+- [**CS Self-Learning**](https://csdiy.wiki/en/)  
   _Yinmin Zhong_
-- [**Deep Learning Paper Reading**](https://github.com/mli/paper-reading?tab=readme-ov-file)
+- [**Deep Learning Paper Reading**](https://github.com/mli/paper-reading?tab=readme-ov-file)  
   _Mu Li et al._
 
 
