@@ -18,6 +18,7 @@ This repository contains materials, blogs, and other resources that I have studi
 - **Lil’Log** [link](https://lilianweng.github.io/)
 - **Five years for PhD** [link](https://zhuanlan.zhihu.com/p/25099638)
 - **I quitted PhD** [link](http://jujuba.me/posts/I-quitted-phd.html)
+- **Some intuitions about large language models** [link](https://www.jasonwei.net/blog/some-intuitions-about-large-language-models)
 
 
 ### Sources for CS Application
