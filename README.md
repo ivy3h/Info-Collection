@@ -13,6 +13,7 @@ This repository contains materials, blogs, and other resources that I have studi
 - **Stanford University, Speech and Language Processing** [link](https://web.stanford.edu/~jurafsky/slp3/)
 - **Stanford University, CS25: Transformers United V4** [link](https://web.stanford.edu/class/cs25/index.html)
 - **Tsinghua University, Introduction to Large Language Models** [link](https://nlp.csai.tsinghua.edu.cn/summer_class/)
+- **CS Self-Learning** [link](https://csdiy.wiki/en/)
 
 
 ## Advices for Research
