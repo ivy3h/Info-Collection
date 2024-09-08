@@ -10,13 +10,14 @@ This repository contains materials, blogs, and other resources that I have studi
 
 
 ### Advices for Research
-- **Omar Khattab, On Impactful AI Research** [link](https://github.com/okhat/blog/blob/main/2024.09.impact.md#1-invest-in-projects-not-papers)
+- **On Impactful AI Research** [link](https://github.com/okhat/blog/blob/main/2024.09.impact.md#1-invest-in-projects-not-papers)
 
 
 
 ### Blogs 
 - **Lil’Log** [link](https://lilianweng.github.io/)
-- **Mu Li, Five years for PhD** [link](https://zhuanlan.zhihu.com/p/25099638)
+- **Five years for PhD** [link](https://zhuanlan.zhihu.com/p/25099638)
+- **I quitted PhD** [link](http://jujuba.me/posts/I-quitted-phd.html)
 
 
 ### Sources for CS Application
