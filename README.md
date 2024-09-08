@@ -1,6 +1,12 @@
 # Info-Collection
 This repository contains materials, blogs, and other resources that I have studied or plan to explore in the future to support my daily studies and research. 
 
+### Table of Contents
+- [Courses & Reading Materials](#Courses-&-Reading-Materials)
+- [Advices for Research](#Advices-for-Research)
+- [Blogs](Blogs)
+- [Sources for CS Application](#Sources-for-CS-Application)
+
 
 ### Courses & Reading Materials
 - **The Missing Semester of Your CS Education** [link](https://missing.csail.mit.edu/)
