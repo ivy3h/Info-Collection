@@ -5,7 +5,7 @@ This repository contains materials, blogs, and other resources that I have studi
 - [Courses & Reading Materials](#Courses-&-Reading-Materials)
 - [Advices for Research](#Advices-for-Research)
 - [Blogs](#Blogs)
-- [Sources for CS Application](#Sources-for-CS-Application)
+- [Sources for CS Application](#Sources-for-CS-Applications)
 - [Research Tools](#Research-Tools)
 
 
