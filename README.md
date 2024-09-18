@@ -47,6 +47,7 @@ This repository contains materials, blogs, and other resources that I have studi
 - [**DuoOffer**](https://duooffer.github.io/)
 - [**Application materials for universities in the US**](https://github.com/vsitzmann/phd-master-application-docs)
 - [**A Five-Minute Guide to Ph.D. Program Applications**](https://pg.ucsd.edu/PhD-application-tips.htm)
+- [**Ziyi Wu: Summary of 2021 Fall graduate school application**](https://github.com/Wuziyi616/Graduate_Application)
 
 
 ## Research Tools
