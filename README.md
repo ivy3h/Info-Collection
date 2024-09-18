@@ -45,6 +45,8 @@ This repository contains materials, blogs, and other resources that I have studi
 - [**Open CS Application**](https://opencs.app/grade/)
 - [**Global CS**](https://global-cs-application.github.io/)
 - [**DuoOffer**](https://duooffer.github.io/)
+- [**Application materials for universities in the US**](https://github.com/vsitzmann/phd-master-application-docs)
+- [**A Five-Minute Guide to Ph.D. Program Applications**](https://pg.ucsd.edu/PhD-application-tips.htm)
 
 
 ## Research Tools
