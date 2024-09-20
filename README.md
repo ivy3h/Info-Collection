@@ -48,6 +48,8 @@ This repository contains materials, blogs, and other resources that I have studi
 - [**Application materials for universities in the US**](https://github.com/vsitzmann/phd-master-application-docs)
 - [**A Five-Minute Guide to Ph.D. Program Applications**](https://pg.ucsd.edu/PhD-application-tips.htm)
 - [**Ziyi Wu: Summary of 2021 Fall graduate school application**](https://github.com/Wuziyi616/Graduate_Application)
+- [**The GradCafe**](https://www.thegradcafe.com/)
+- **A couple of detailed experience sharing**: [2021 Fall 申请回忆录 (北美 CS PhD)](https://zhuanlan.zhihu.com/p/350439006) / [n+e's blog|申请回忆录](https://trinkle23897.github.io/posts/application) / [2024 Fall CS PhD 申请反思 (AI/CV方向)](https://zhuanlan.zhihu.com/p/690240135)
 
 
 ## Research Tools
