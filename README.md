@@ -51,6 +51,9 @@ This repository contains materials, blogs, and other resources that I have studi
 - [**The GradCafe**](https://www.thegradcafe.com/)
 - **A couple of detailed experience sharing**: [2021 Fall 申请回忆录 (北美 CS PhD)](https://zhuanlan.zhihu.com/p/350439006) / [n+e's blog|申请回忆录](https://trinkle23897.github.io/posts/application) / [2024 Fall CS PhD 申请反思 (AI/CV方向)](https://zhuanlan.zhihu.com/p/690240135) / [24 Fall CS/ECE PhD 极低标化申请经验](https://zhuanlan.zhihu.com/p/720067830)
 - [**US EECS Master Summerization**](https://zhuanlan.zhihu.com/p/703506464)
+- [**Awesome CS PhD application advice**](https://github.com/jedyang97/awesome-cs-phd-application-advice)
+- [**Collection of advice for prospective and current PhD students**](https://github.com/pliang279/awesome-phd-advice)
+- [**北美CS PhD申请建议合集**](https://post.bin-hu.com/collection-of-advice-for-phd-application/)
 
 
 ## Research Tools
