@@ -26,6 +26,7 @@ This repository contains materials, blogs, and other resources that I have studi
 
 ## Advice for Research
 - [**On Impactful AI Research**](https://github.com/okhat/blog/blob/main/2024.09.impact.md#1-invest-in-projects-not-papers)
+- [**写在Ph.D第0年：AI/CV科研菜鸟的持续进阶之路**](https://zhuanlan.zhihu.com/p/960781637)
 
 
 
@@ -34,6 +35,7 @@ This repository contains materials, blogs, and other resources that I have studi
 - [**Five years for PhD**](https://zhuanlan.zhihu.com/p/25099638)
 - [**I quitted PhD**](http://jujuba.me/posts/I-quitted-phd.html)
 - [**Some intuitions about large language models**](https://www.jasonwei.net/blog/some-intuitions-about-large-language-models)
+
 
 
 ## Sources for CS Applications
