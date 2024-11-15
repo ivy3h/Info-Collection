@@ -42,6 +42,7 @@ This repository contains materials, blogs, and other resources that I have studi
 - [**CS PhD Statements of Purpose**](https://cs-sop.notion.site/CS-PhD-Statements-of-Purpose-df39955313834889b7ac5411c37b958d)
 - [**Eugenie Y. Lai's Annotated Example: CS PhD Statement of Purpose**](https://eugenielai.github.io/posts/another-annotated-sop.html)
 - [**Some suggestions for CS PhD statements of purpose**](https://www.josecambronero.com/blogs/statement_of_purpose.html)
+- [**Advide for Writing Diversity Statement from Harvard**](https://bokcenter.harvard.edu/diversity-statements)
 - [**General Advice for CS PhD Applicants**](https://drive.google.com/file/d/1NdddMIXH3bt0jgJuf-BwAGxdqUqUNmOV/view)
 - [**Saujas' An Annotated Statement of Purpose**](https://saujasv.github.io/annotated-sop)
 - [**CSRankings**](https://csrankings.org/#/index?all&us)
